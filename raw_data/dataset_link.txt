@@ -1,0 +1,5 @@
+DermaVision Processed Dataset
+========================================
+
+Kaggle Dataset Link:
+https://www.kaggle.com/datasets/YOUR_USERNAME/YOUR_DATASET

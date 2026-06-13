@@ -1,0 +1,8 @@
+{
+    "project": "DermaVision",
+    "model": "Swin Transformer Tiny",
+    "dataset": "ISIC2019",
+    "validation_accuracy": 87.13,
+    "num_classes": 8,
+    "image_size": 224
+}

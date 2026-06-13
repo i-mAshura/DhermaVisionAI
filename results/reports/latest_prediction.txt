@@ -1,0 +1,15 @@
+
+Prediction : NV
+
+Confidence : 0.8688
+
+Probabilities
+
+AK : 1.70%
+BCC : 2.07%
+BKL : 0.83%
+DF : 1.67%
+MEL : 3.69%
+NV : 86.88%
+SCC : 1.61%
+VASC : 1.55%
